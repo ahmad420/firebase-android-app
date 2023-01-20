@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fireB</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="register_now">register now</string>
+    <string name="log_out">log out</string>
+    <string name="hello_firebase">Hello FireBase :)</string>
+</resources>
